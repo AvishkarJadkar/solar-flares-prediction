@@ -55,7 +55,7 @@ The purpose of this study is based on the available data, it was estimated numbe
 
 <br>
 
-<p>Every class has different <i>dense layer</i> before the <i>output layer</i>. <code>c_output</code> has <i>32</i>, <code>m_output</code> has <i>64</i> and <code>x_output</code> has <i>16</i> neurons. <code>c_output</code> be retrived directly from <code>dense_3</code>, <code>m_output</code> be retrived directly from <code>dense_4</code> and <code>x_output</code> be retrived directly from <code>dense_5</code>. You can use the model model with loading <a  href="https://github.com/doguilmak/Predicting-Solar-Flares-and-Flare-Area-Classes/blob/main/my_model.h5">my_model.h5</a> or you can use the whole model <a  href="https://github.com/doguilmak/Predicting-Solar-Flares-and-Flare-Area-Classes/tree/main/my_model">here</a>.</p>
+<p>Every class has different <i>dense layer</i> before the <i>output layer</i>. <code>c_output</code> has <i>32</i>, <code>m_output</code> has <i>64</i> and <code>x_output</code> has <i>16</i> neurons. <code>c_output</code> be retrived directly from <code>dense_3</code>, <code>m_output</code> be retrived directly from <code>dense_4</code> and <code>x_output</code> be retrived directly from <code>dense_5</code>.</p>
 
 <br>
 
